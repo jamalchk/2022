@@ -1,0 +1,1 @@
+alert("🖐 Olá, nesta página, estarei registrando todos os meus progressos de estudo e carreira, além dos meus projetos pessoais. Fique à vontade.")
