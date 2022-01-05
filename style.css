@@ -35,3 +35,15 @@ ul, li {
      margin-left: 32px;
      padding: 8px;
  }
+
+a, a:link, a:visited {
+    color: #00d0ff;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: #ff71ee;
+}
